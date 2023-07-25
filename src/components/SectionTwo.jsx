@@ -117,7 +117,7 @@ const SectionTwo = () => {
               className={`bg-black rounded-lg p-[6px] sm:p-3 md:p-4 flex items-center justify-center cursor-pointer ${
                 item.style
                   ? item.style
-                  : "h-[4.1rem] xs:h-[5rem] sm:h-[7.5rem] md:h-[8.5rem] lg:h-[8.5rem] xl:h-[9rem]"
+                  : "h-[4.1rem] xs:h-[5rem] sm:h-[7.5rem] md:h-[8.5rem] lg:h-[8.5rem] xl:h-[8.5rem] 3xl:h-[11rem]"
               }`}>
               <p className="fourth-display-font text-[0.7rem] xs:text-[0.88rem] sm:text-[1.25rem] md:text-[1.37rem] text-transparent bg-clip-text bg-gradient-to-t from-[#FF646F] to-[#FFB973] break-words text-center">
                 {item.type}

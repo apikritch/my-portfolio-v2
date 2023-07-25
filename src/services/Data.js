@@ -72,7 +72,7 @@ const skills = [
       { name: "Tailwind CSS", type: "mdi", icon: mdiTailwind },
     ],
     style:
-      "col-span-2 h-[4.1rem] xs:h-[5rem] sm:h-[7.5rem] md:h-[8.5rem] lg:h-[8.5rem] xl:h-[9rem]",
+      "col-span-2 h-[4.1rem] xs:h-[5rem] sm:h-[7.5rem] md:h-[8.5rem] lg:h-[8.5rem] xl:h-[8.5rem] 3xl:h-[11rem]",
   },
   {
     id: 5,

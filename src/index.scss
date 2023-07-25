@@ -1,0 +1,26 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "./assets/scss/fonts.scss";
+@import "./assets/scss/variables.scss";
+
+.main-display-font {
+  font-family: $main-display-font;
+}
+
+.second-display-font {
+  font-family: $second-display-font;
+}
+
+.third-display-font {
+  font-family: $third-display-font;
+}
+
+.fourth-display-font {
+  font-family: $fourth-display-font;
+}
+
+#root {
+  background-color: #000;
+}

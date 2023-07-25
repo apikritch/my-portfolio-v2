@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-v2/static/css/main.69201f5d.css",
+    "main.js": "/my-portfolio-v2/static/js/main.274d86d3.js",
+    "static/media/wellness-life-travel.png": "/my-portfolio-v2/static/media/wellness-life-travel.b2bcf3d7565883f191e3.png",
+    "static/media/e-bike.png": "/my-portfolio-v2/static/media/e-bike.0dfa047cc6ec20095962.png",
+    "static/media/restaurant.png": "/my-portfolio-v2/static/media/restaurant.eea37b24bc3d17207a30.png",
+    "static/media/Comfortaa-SemiBold.ttf": "/my-portfolio-v2/static/media/Comfortaa-SemiBold.47b7aa559e6731360445.ttf",
+    "static/media/Comfortaa-Medium.ttf": "/my-portfolio-v2/static/media/Comfortaa-Medium.db5c74bd40268b35dc93.ttf",
+    "static/media/Comfortaa-Regular.ttf": "/my-portfolio-v2/static/media/Comfortaa-Regular.051d690872878482e7e7.ttf",
+    "static/media/Comfortaa-Light.ttf": "/my-portfolio-v2/static/media/Comfortaa-Light.2d79c8b673318d831c9b.ttf",
+    "static/media/Comfortaa-Bold.ttf": "/my-portfolio-v2/static/media/Comfortaa-Bold.059cc3e0c5d00a88354f.ttf",
+    "static/media/sd-perfumery.png": "/my-portfolio-v2/static/media/sd-perfumery.3969d492aef859d99add.png",
+    "static/media/PoiretOne-Regular.ttf": "/my-portfolio-v2/static/media/PoiretOne-Regular.9bf109e97f6294c6fe2b.ttf",
+    "static/media/Righteous-Regular.ttf": "/my-portfolio-v2/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
+    "static/media/Plaster-Regular.ttf": "/my-portfolio-v2/static/media/Plaster-Regular.a704649bb397303226ee.ttf",
+    "index.html": "/my-portfolio-v2/index.html",
+    "main.69201f5d.css.map": "/my-portfolio-v2/static/css/main.69201f5d.css.map",
+    "main.274d86d3.js.map": "/my-portfolio-v2/static/js/main.274d86d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69201f5d.css",
+    "static/js/main.274d86d3.js"
+  ]
+}

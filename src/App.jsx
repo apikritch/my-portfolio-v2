@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 
 import StartupAnimation from "./components/StartupAnimation";
@@ -10,10 +10,6 @@ import SectionThree from "./components/SectionThree";
 
 const App = () => {
   const [showSectionOne, setShowSectionOne] = useState(false);
-
-  useEffect(() => {
-    document.title = "Apikritch | Portfolio"; // Set your desired title here
-  }, []);
 
   return (
     <React.Fragment>

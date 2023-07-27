@@ -121,7 +121,7 @@ const SectionThree = () => {
                   transition: { delay: 0.1, duration: 0.25 },
                 }}
                 viewport={{ once: true }}
-                className="flex justify-center items-center overflow-hidden relative h-[500px]">
+                className="flex justify-center items-center overflow-hidden relative h-[525px]">
                 <AnimatePresence
                   initial={false}
                   custom={direction}>

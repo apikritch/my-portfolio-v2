@@ -9,6 +9,7 @@ import sdPerfumery from "../assets/images/sd-perfumery.png";
 import wellnessLifeTravelPNG from "../assets/images/wellness-life-travel.png";
 import restaurant from "../assets/images/restaurant.png";
 import eBike from "../assets/images/e-bike.png";
+import Shopping from "../assets/images/shopping-website.png";
 
 const devTypes = [
   {
@@ -117,6 +118,26 @@ const skills = [
 const projects = [
   {
     id: 0,
+    name: "Prduct List Website",
+    image: Shopping,
+    ext_link: [
+      {
+        url: "https://github.com/apikritch/React-GraphQL-Apollo-MongoDB",
+        icon: "fa-brands fa-github",
+        size: "xl",
+      },
+      {
+        url: "http://apikritch.com:8085/",
+        icon: "fa-solid fa-link",
+      },
+    ],
+
+    description:
+      "A product list website with a search function and authentication system for the admin to add, categorize, and review products.",
+    frameworks: ["React.js", "Tailwind CSS", "Apollo", "MongoDB"],
+  },
+  {
+    id: 1,
     name: "SD Perfumery",
     image: sdPerfumery,
     ext_link: [
@@ -144,7 +165,7 @@ const projects = [
     frameworks: ["Vue.js", "Bootstrap", "Laravel"],
   },
   {
-    id: 1,
+    id: 2,
     name: "Wellness Life Travel",
     image: wellnessLifeTravelPNG,
     ext_link: [
@@ -164,7 +185,7 @@ const projects = [
     frameworks: ["Vue.js", "Tailwind CSS", "Firebase"],
   },
   {
-    id: 2,
+    id: 3,
     name: "Restaurant Website",
     image: restaurant,
     ext_link: [
@@ -184,7 +205,7 @@ const projects = [
     frameworks: ["Node.Js", "Bootstrap", "DynamoDB"],
   },
   {
-    id: 3,
+    id: 4,
     name: "E-Bike Website",
     image: eBike,
     ext_link: [

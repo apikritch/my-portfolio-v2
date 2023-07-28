@@ -175,7 +175,7 @@ const projects = [
         size: "xl",
       },
       {
-        url: "https://www.wellnesslifetravelth.com/",
+        url: "https://portfolio.apikritch.com/project/3",
         icon: "fa-solid fa-link",
       },
     ],
@@ -195,7 +195,7 @@ const projects = [
         size: "xl",
       },
       {
-        url: "http://www.apikritch.com:8082/",
+        url: "https://portfolio.apikritch.com/project/4",
         icon: "fa-solid fa-link",
       },
     ],

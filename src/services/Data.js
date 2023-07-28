@@ -134,7 +134,7 @@ const projects = [
 
     description:
       "A product list website with a search function and authentication system for the admin to add, categorize, and review products.",
-    frameworks: ["React.js", "Tailwind CSS", "Apollo", "MongoDB"],
+    frameworks: ["React.js", "Tailwind CSS", "GraphQL", "MongoDB"],
   },
   {
     id: 1,

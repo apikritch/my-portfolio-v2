@@ -22,4 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/scripts
+docker-compose.yml
+Dockerfile

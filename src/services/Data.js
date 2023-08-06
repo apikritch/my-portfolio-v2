@@ -147,11 +147,11 @@ const projects = [
         size: "xl",
       },
       {
-        url: "http://www.apikritch.com:8081/",
+        url: "https://portfolio.apikritch.com/project/2",
         icon: "fa-solid fa-link",
       },
       {
-        url: "http://www.apikritch.com:8081/admin",
+        url: "https://portfolio.apikritch.com/project/2/admin",
         icon: "fa-solid fa-user",
         size: "lg",
       },

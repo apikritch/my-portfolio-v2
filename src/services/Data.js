@@ -215,7 +215,7 @@ const projects = [
         size: "xl",
       },
       {
-        url: "http://www.apikritch.com:8084/",
+        url: "https://portfolio.apikritch.com/project/5/",
         icon: "fa-solid fa-link",
       },
     ],

@@ -10,6 +10,8 @@ import wellnessLifeTravelPNG from "../assets/images/wellness-life-travel.png";
 import restaurant from "../assets/images/restaurant.png";
 import eBike from "../assets/images/e-bike.png";
 import Shopping from "../assets/images/shopping-website.png";
+import covid19 from "../assets/images/covid-19.png";
+import todo from "../assets/images/todo.png";
 
 const devTypes = [
   {
@@ -127,7 +129,7 @@ const projects = [
         size: "xl",
       },
       {
-        url: "https://portfolio.apikritch.com/project/1",
+        url: "https://apikritch.com/project/1",
         icon: "fa-solid fa-link",
       },
     ],
@@ -147,11 +149,11 @@ const projects = [
         size: "xl",
       },
       {
-        url: "https://portfolio.apikritch.com/project/2",
+        url: "https://apikritch.com/project/2",
         icon: "fa-solid fa-link",
       },
       {
-        url: "https://portfolio.apikritch.com/project/2/admin",
+        url: "https://apikritch.com/project/2/admin",
         icon: "fa-solid fa-user",
         size: "lg",
       },
@@ -175,7 +177,7 @@ const projects = [
         size: "xl",
       },
       {
-        url: "https://portfolio.apikritch.com/project/3",
+        url: "https://apikritch.com/project/3",
         icon: "fa-solid fa-link",
       },
     ],
@@ -195,7 +197,7 @@ const projects = [
         size: "xl",
       },
       {
-        url: "https://portfolio.apikritch.com/project/4",
+        url: "https://apikritch.com/project/4",
         icon: "fa-solid fa-link",
       },
     ],
@@ -215,7 +217,7 @@ const projects = [
         size: "xl",
       },
       {
-        url: "https://portfolio.apikritch.com/project/5/",
+        url: "https://apikritch.com/project/5",
         icon: "fa-solid fa-link",
       },
     ],
@@ -223,6 +225,46 @@ const projects = [
     description:
       "An e-bike shop website where customers can find a selection of e-bike kits and parts. The website provides detailed information about products and services. Customers can use the contact form on the website to get in touch with the shop.",
     frameworks: ["Pug.Js", "Bootstrap", "Node.Js"],
+  },
+  {
+    id: 5,
+    name: "COVID-19 History Website",
+    image: covid19,
+    ext_link: [
+      {
+        url: "https://github.com/apikritch/covid-app",
+        icon: "fa-brands fa-github",
+        size: "xl",
+      },
+      {
+        url: "https://apikritch.com/project/6",
+        icon: "fa-solid fa-link",
+      },
+    ],
+
+    description:
+      "A website that displays COVID-19 data with filtering capabilities. The website lets users easily sift through data by type, like cases, recoveries, and deaths, also they can filter data by period.",
+    frameworks: ["React.js", "Tailwind CSS", "Highcharts"],
+  },
+  {
+    id: 6,
+    name: "Todo List Website",
+    image: todo,
+    ext_link: [
+      {
+        url: "https://github.com/apikritch/technical-interview",
+        icon: "fa-brands fa-github",
+        size: "xl",
+      },
+      {
+        url: "https://apikritch.com/project/7",
+        icon: "fa-solid fa-link",
+      },
+    ],
+
+    description:
+      "A to-do list website designed to help users manage their tasks. Users can easily add, organize, and track tasks through their dashboard. Features include setting due dates, adding location and priority, and marking items as complete. ",
+    frameworks: ["Next.Js", "Tailwind CSS", "Redux Toolkit"],
   },
 ];
 
